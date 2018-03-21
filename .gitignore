@@ -1,0 +1,15 @@
+__pycache__/*
+
+.ipynb_checkpoints/*
+
+data/*
+
+*.log
+
+metastore_db/*
+
+.vscode/settings.json
+
+*.pyc
+
+playground.py
